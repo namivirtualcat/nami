@@ -1,0 +1,14 @@
+b4cb46ad98a049189bb09e5550df39b95872a03b		branch 'main' of https://github.com/moeru-ai/airi
+12fbe7a78bef881aa7e5d9c04e1bf7390706f41a	not-for-merge	branch 'dev/candle' of https://github.com/moeru-ai/airi
+2552b128e15aad0d26261c2ad26e8d8abdf86860	not-for-merge	branch 'dev/nix-flakes-darwin' of https://github.com/moeru-ai/airi
+7d8e14821ce51eee38f8c078ae22c77a8223fbb0	not-for-merge	branch 'dev/refactor' of https://github.com/moeru-ai/airi
+d0c34c451e511807b9aa41b807776908d7680763	not-for-merge	branch 'dev/remove-tool-versions' of https://github.com/moeru-ai/airi
+ebf790acd6490b84e15a9b8f4ebcb7b4bf551da8	not-for-merge	branch 'dev/transformer-transcribe' of https://github.com/moeru-ai/airi
+0fdee7b95d1a789724bde9cb6c4f8412fa76b069	not-for-merge	branch 'dev/ui' of https://github.com/moeru-ai/airi
+40728bfbc01400f1604e7a77fe834c51618f8cb3	not-for-merge	branch 'dev/x-mcp-progress' of https://github.com/moeru-ai/airi
+d040a60902eaa2321beeb33ab90c79d38d4c6e38	not-for-merge	branch 'feat/tts-better-chunking' of https://github.com/moeru-ai/airi
+4d3e625da0e13f84279e0870729f4bb89030db42	not-for-merge	branch 'i18n/main' of https://github.com/moeru-ai/airi
+bdb00b3af22e90824e83fc3e66e4f919c84e0879	not-for-merge	branch 'lemonnekogh/curtain-animation' of https://github.com/moeru-ai/airi
+b68aee7b18267693ceea0fd0b8580ee871723739	not-for-merge	branch 'lemonnekogh/js-tray-api' of https://github.com/moeru-ai/airi
+35b0514c671ce9db6c8e92a511e28304f5cded75	not-for-merge	branch 'lemonnekogh/migrate-to-js-window-api' of https://github.com/moeru-ai/airi
+0b78c1440f18d6b228f6e8037a6dda6cbb18aeaf	not-for-merge	branch 'lemonnekogh/tamagotchi-mcp-client' of https://github.com/moeru-ai/airi
