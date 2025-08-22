@@ -40,7 +40,7 @@
 
 > [!NOTE]
 >
-> We got a whole dedicated organization [@proj-airi](https://github.com/proj-airi) for all the sub-project that born from Project AIRI, check it out!
+> We got a whole dedicated organization [(https://github.com/namivirtualcat/nami)](https://github.com/namivirtualcat/nami) for all the sub-project that born from Project AIRI, check it out!
 >
 > RAG, memory system, embedded database, icons, Live2D utilities, and more!
 
@@ -208,24 +208,6 @@ npx bumpp --no-commit --no-tag
 
 ## Sub-projects born from this project
 
-- [Awesome AI VTuber](https://github.com/proj-airi/awesome-ai-vtuber): A curated list of AI VTubers and related projects
-- [`unspeech`](https://github.com/moeru-ai/unspeech): Universal endpoint proxy server for `/audio/transcriptions` and `/audio/speech`, like LiteLLM but for any ASR and TTS
-- [`hfup`](https://github.com/moeru-ai/hfup): tools to help on deploying, bundling to HuggingFace Spaces
-- [`xsai-transformers`](https://github.com/moeru-ai/xsai-transformers): Experimental [🤗 Transformers.js](https://github.com/huggingface/transformers.js) provider for [xsAI](https://github.com/moeru-ai/xsai).
-- [WebAI: Realtime Voice Chat](https://github.com/proj-airi/webai-realtime-voice-chat): Full example of implementing ChatGPT's realtime voice from scratch with VAD + STT + LLM + TTS.
-- [`@proj-airi/drizzle-duckdb-wasm`](https://github.com/moeru-ai/airi/tree/main/packages/drizzle-duckdb-wasm/README.md): Drizzle ORM driver for DuckDB WASM
-- [`@proj-airi/duckdb-wasm`](https://github.com/moeru-ai/airi/tree/main/packages/duckdb-wasm/README.md): Easy to use wrapper for `@duckdb/duckdb-wasm`
-- [`tauri-plugin-mcp`](https://github.com/moeru-ai/airi/blob/main/crates/tauri-plugin-mcp/README.md): A Tauri plugin for interacting with MCP servers.
-- [AIRI Factorio](https://github.com/moeru-ai/airi-factorio): Allow AIRI to play Factorio
-- [Factorio RCON API](https://github.com/nekomeowww/factorio-rcon-api): RESTful API wrapper for Factorio headless server console
-- [`autorio`](https://github.com/moeru-ai/airi-factorio/tree/main/packages/autorio): Factorio automation library
-- [`tstl-plugin-reload-factorio-mod`](https://github.com/moeru-ai/airi-factorio/tree/main/packages/tstl-plugin-reload-factorio-mod): Reload Factorio mod when developing
-- [Velin](https://github.com/luoling8192/velin): Use Vue SFC and Markdown to write easy to manage stateful prompts for LLM
-- [`demodel`](https://github.com/moeru-ai/demodel): Easily boost the speed of pulling your models and datasets from various of inference runtimes.
-- [`inventory`](https://github.com/moeru-ai/inventory): Centralized model catalog and default provider configurations backend service
-- [MCP Launcher](https://github.com/moeru-ai/mcp-launcher): Easy to use MCP builder & launcher for all possible MCP servers, just like Ollama for models!
-- [🥺 SAD](https://github.com/moeru-ai/sad): Documentation and notes for self-host and browser running LLMs.
-
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'catmullRom' } } }%%
 
@@ -316,40 +298,4 @@ flowchart TD
   style Memory_PGVector fill:#f9f9d4,stroke:#333,stroke-width:1px
 ```
 
-## Similar Projects
-
-### Open sourced ones
-
-- [kimjammer/Neuro: A recreation of Neuro-Sama originally created in 7 days.](https://github.com/kimjammer/Neuro): very well completed implementation.
-- [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif): Great at gaming, autonomous, and prompt engineering
-- [semperai/amica](https://github.com/semperai/amica/): Great at VRM, WebXR
-- [elizaOS/eliza](https://github.com/elizaOS/eliza): Great examples and software engineering on how to integrate agent into various of systems and APIs
-- [ardha27/AI-Waifu-Vtuber](https://github.com/ardha27/AI-Waifu-Vtuber): Great about Twitch API integrations
-- [InsanityLabs/AIVTuber](https://github.com/InsanityLabs/AIVTuber): Nice UI and UX
-- [IRedDragonICY/vixevia](https://github.com/IRedDragonICY/vixevia)
-- [t41372/Open-LLM-VTuber](https://github.com/t41372/Open-LLM-VTuber)
-- [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales)
-
-### Non-open-sourced ones
-
-- https://clips.twitch.tv/WanderingCaringDeerDxCat-Qt55xtiGDSoNmDDr https://www.youtube.com/watch?v=8Giv5mupJNE
-- https://clips.twitch.tv/TriangularAthleticBunnySoonerLater-SXpBk1dFso21VcWD
-- https://www.youtube.com/@NOWA_Mirai
-
-## Project Status
-
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/a1d6fe2c13ea2bb53a5154435a71e2431f70c2ee.svg 'Repobeats analytics image')
-
-## Acknowledgements
-
-- [Reka UI](https://github.com/unovue/reka-ui): for designing the documentation site, new landing page is based on this, as well as implementing massive amount of UI components. (shadcn-vue is using Reka UI as the headless, do checkout!)
-- [pixiv/ChatVRM](https://github.com/pixiv/ChatVRM)
-- [josephrocca/ChatVRM-js: A JS conversion/adaptation of parts of the ChatVRM (TypeScript) code for standalone use in OpenCharacters and elsewhere](https://github.com/josephrocca/ChatVRM-js)
-- Design of UI and style was inspired by [Cookard](https://store.steampowered.com/app/2919650/Cookard/), [UNBEATABLE](https://store.steampowered.com/app/2240620/UNBEATABLE/), and [Sensei! I like you so much!](https://store.steampowered.com/app/2957700/_/), and artworks of [Ayame by Mercedes Bazan](https://dribbble.com/shots/22157656-Ayame) with [Wish by Mercedes Bazan](https://dribbble.com/shots/24501019-Wish)
-- [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
-- [`xsai`](https://github.com/moeru-ai/xsai): Implemented a decent amount of packages to interact with LLMs and models, like [Vercel AI SDK](https://sdk.vercel.ai/) but way small.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=moeru-ai/airi&type=Date)](https://www.star-history.com/#moeru-ai/airi&Date)
 
