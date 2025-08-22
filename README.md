@@ -125,8 +125,6 @@ pnpm i
 pnpm dev
 ```
 
-### Stage Web (Browser version for [airi.moeru.ai](https://airi.moeru.ai))
-
 ```shell
 pnpm dev
 ```
@@ -181,6 +179,7 @@ npx bumpp --no-commit --no-tag
 - [x] [Tencent Cloud](https://cloud.tencent.com/document/product/1729)
 - [ ] [Sparks](https://www.xfyun.cn/doc/spark/Web.html) (PR welcome)
 - [ ] [Volcano Engine](https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=2QXCA1VI) (PR welcome)
+
 
 
 
