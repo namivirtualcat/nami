@@ -20,19 +20,14 @@
   <a href="[https://x.com/namidigitalcat]"><img src="https://img.shields.io/badge/%40namidigitalcat-blue?style=flat&logo=x&labelColor=%23101419&color=%232d2e30"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.producthunt.com/products/airi?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-airi" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=993524&theme=neutral&t=1752696535380" alt="AIRI - A&#0032;container&#0032;of&#0032;cyber&#0032;living&#0032;souls&#0044;&#0032;re&#0045;creation&#0032;of&#0032;Neuro&#0045;sama | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-  <a href="https://trendshift.io/repositories/14636" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14636" alt="moeru-ai%2Fairi | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
-
 > Heavily inspired by [Neuro-sama](https://www.youtube.com/@Neurosama)
 
 > [!WARNING]
-> **Attention:** We **do not** have any officially minted cryptocurrency or token associated with this project. Please check the information and proceed with caution.
+> **Attention:** We **launch on bonk** officially minted cryptocurrency or token.
 
 > [!NOTE]
 >
-> We got a whole dedicated organization [(https://github.com/namivirtualcat/nami)](https://github.com/namivirtualcat/nami) for all the sub-project that born from Project AIRI, check it out!
+> We got a whole dedicated organization [(https://github.com/namivirtualcat/nami)](https://github.com/namivirtualcat/nami) for all the sub-project that born from NamidigitalCat, check it out!
 >
 > RAG, memory system, embedded database, icons, Live2D utilities, and more!
 
@@ -289,6 +284,7 @@ flowchart TD
   style Memory fill:#f9f9d4,stroke:#333,stroke-width:1px
   style Memory_PGVector fill:#f9f9d4,stroke:#333,stroke-width:1px
 ```
+
 
 
 
