@@ -39,15 +39,7 @@ With the power of modern large language models like [ChatGPT](https://chatgpt.co
 
 Perhaps you know [Neuro-sama](https://www.youtube.com/@Neurosama) already, she is currently the best companion capable of playing games, chatting, and interacting with you and the participants (in VTuber community), some call this kind of being, "digital human" too. **Sadly, it's not open sourced, you cannot interact with her after she went offline from live stream**.
 
-Therefore, this project, AIRI, offers another possibility here: **let you own your digital life, cyber living, easily, anywhere, anytime**.
-
-## DevLogs we posted & Recent updates
-
-- [DevLog @ 2025.07.18](https://airi.moeru.ai/docs/blog/DevLog-2025.07.18/) on July 18, 2025
-- [DreamLog 0x1](https://airi.moeru.ai/docs/blog/dreamlog-0x1/) on June 16, 2025
-- [DevLog @ 2025.06.08](https://airi.moeru.ai/docs/blog/DevLog-2025.06.08/) on June 8, 2025
-- [DevLog @ 2025.05.16](https://airi.moeru.ai/docs/blog/DevLog-2025.05.16/) on May 16, 2025
-- ...more on [documentation site](https://airi.moeru.ai/docs)
+Therefore, this project, NAMI, offers another possibility here: **let you own your digital life, cyber living, easily, anywhere, anytime**.
 
 ## What's so special for this project?
 
@@ -82,9 +74,7 @@ This means that **アイリ VTuber is capable to run on modern browsers and devi
 > - vLLM
 > - WebGPU
 > - Three.js
-> - WebXR ([checkout the another project](https://github.com/moeru-ai/chat) we have under @moeru-ai organization)
 >
-> **If you are interested in, why not introduce yourself here? [Would like to join part of us to build AIRI?](https://github.com/moeru-ai/airi/discussions/33)**
 
 ## Current progress
 
@@ -94,7 +84,6 @@ Capable of
 
 - [x] Brain
   - [x] Play [Minecraft](https://www.minecraft.net)
-  - [x] Play [Factorio](https://www.factorio.com) (WIP, but [PoC and demo available](https://github.com/moeru-ai/airi-factorio))
   - [x] Chat in [Telegram](https://telegram.org)
   - [x] Chat in [Discord](https://discord.com)
   - [ ] Memory
@@ -284,6 +273,7 @@ flowchart TD
   style Memory fill:#f9f9d4,stroke:#333,stroke-width:1px
   style Memory_PGVector fill:#f9f9d4,stroke:#333,stroke-width:1px
 ```
+
 
 
 
